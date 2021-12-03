@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bipin7yadav.github.io/csb-f0ch1/static/css/main.44dac763.chunk.css",
+    "main.js": "https://bipin7yadav.github.io/csb-f0ch1/static/js/main.354d3529.chunk.js",
+    "main.js.map": "https://bipin7yadav.github.io/csb-f0ch1/static/js/main.354d3529.chunk.js.map",
+    "runtime-main.js": "https://bipin7yadav.github.io/csb-f0ch1/static/js/runtime-main.b491e77a.js",
+    "runtime-main.js.map": "https://bipin7yadav.github.io/csb-f0ch1/static/js/runtime-main.b491e77a.js.map",
+    "static/js/2.018b186f.chunk.js": "https://bipin7yadav.github.io/csb-f0ch1/static/js/2.018b186f.chunk.js",
+    "static/js/2.018b186f.chunk.js.map": "https://bipin7yadav.github.io/csb-f0ch1/static/js/2.018b186f.chunk.js.map",
+    "index.html": "https://bipin7yadav.github.io/csb-f0ch1/index.html",
+    "static/css/main.44dac763.chunk.css.map": "https://bipin7yadav.github.io/csb-f0ch1/static/css/main.44dac763.chunk.css.map",
+    "static/js/2.018b186f.chunk.js.LICENSE.txt": "https://bipin7yadav.github.io/csb-f0ch1/static/js/2.018b186f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b491e77a.js",
+    "static/js/2.018b186f.chunk.js",
+    "static/css/main.44dac763.chunk.css",
+    "static/js/main.354d3529.chunk.js"
+  ]
+}
